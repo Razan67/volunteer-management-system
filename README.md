@@ -75,7 +75,4 @@ Includes stored procedures for basic operations
 
 Demonstrates solid understanding of database design principles
 
-👤 Author
 
-Razan Alkhanji
-Computer Science Student
