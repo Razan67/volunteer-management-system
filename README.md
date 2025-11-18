@@ -5,7 +5,7 @@ Volunteer Management System – SQL Database
 This repository contains the full SQL structure and sample data for a Volunteer Management System.
 The project was created for academic purposes and demonstrates database design, relationships, stored procedures, and views.
 
-📌 Overview
+# 📌 Overview
 
 The database includes the following main components:
 
@@ -29,13 +29,13 @@ Stored Procedures (for inserting and retrieving data)
 
 This system supports managing volunteers, assigning them to teams, and tracking their participation in events.
 
-🛠 Technologies Used
+# 🛠 Technologies Used
 
 MySQL / MariaDB
 
 SQL (tables, constraints, views, stored procedures)
 
-📂 Files Included
+# 📂 Files Included
 volunteer_management_system.sql
 
 This SQL file contains:
@@ -50,7 +50,7 @@ Views
 
 Stored procedures
 
-📘 How to Import the Database
+# 📘 How to Import the Database
 
 Open phpMyAdmin or any MySQL client.
 
@@ -63,7 +63,7 @@ Import the SQL file into the new database.
 
 All tables, data, views, and procedures will be created automatically.
 
-✨ Key Features
+# ✨ Key Features
 
 Well-structured relational database
 
