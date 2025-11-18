@@ -1,31 +1,30 @@
-# volunteer-management-system
+# Volunteer Management System – SQL Database
 A complete SQL database structure for a Volunteer Management System, featuring tables, relationships, views, constraints, and stored procedures used for managing volunteers, teams, events, and departments.
-Volunteer Management System – SQL Database
 
 This repository contains the full SQL structure and sample data for a Volunteer Management System.
 The project was created for academic purposes and demonstrates database design, relationships, stored procedures, and views.
 
 # 📌 Overview
 
-The database includes the following main components:
+- The database includes the following main components:
 
-Departments
+- Departments
 
-Events
+- Events
 
-Volunteers
+- Volunteers
 
-Teams
+- Teams
 
-Volunteer–Team assignments
+- Volunteer–Team assignments
 
-Event participants
+- Event participants
 
-Volunteer phone numbers
+- Volunteer phone numbers
 
-Views (for simplified data access)
+- Views (for simplified data access)
 
-Stored Procedures (for inserting and retrieving data)
+- Stored Procedures (for inserting and retrieving data)
 
 This system supports managing volunteers, assigning them to teams, and tracking their participation in events.
 
@@ -58,21 +57,20 @@ Create a new database:
 
 CREATE DATABASE volunteer_management_system;
 
-
 Import the SQL file into the new database.
 
 All tables, data, views, and procedures will be created automatically.
 
 # ✨ Key Features
 
-Well-structured relational database
+- Well-structured relational database
 
-Realistic dataset for testing
+- Realistic dataset for testing
 
-Includes useful SQL views for reporting
+- Includes useful SQL views for reporting
 
-Includes stored procedures for basic operations
+- Includes stored procedures for basic operations
 
-Demonstrates solid understanding of database design principles
+- Demonstrates solid understanding of database design principles
 
 
